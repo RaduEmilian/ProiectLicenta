@@ -1,0 +1,123 @@
+﻿@model IEnumerable<OrderDetail>
+
+@{
+    ViewData["Title"] = "Privacy Policy";
+    var x = ViewData["id"];
+}
+<div style="height:200px;">
+
+</div>
+<div style="container">
+    <table id="myTable" class="table table-striped table-dark">
+        <thead>
+            <tr>
+                <th scope="col">Nr.Comanda</th>
+                <th scope="col">Produs</th>
+
+                <th scope="col">Informatii</th>
+
+
+
+            </tr>
+        </thead>
+        @foreach (var product in Model)
+        {
+            <tbody>
+                <tr>
+                    <td style="color:black">@product.OrderId</td>
+                    <td style="color:black">@product.Nume_Produs</td>
+
+                    <td>
+                        <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal-@product.OrderId"> Informatii </button>
+                    </td>
+
+
+                    <div class="modal fade" id="exampleModal-@product.OrderId" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLabel">Informatii comanda numar @product.OrderId</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Nume</p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p class="text-muted mb-0">@product.Order.LastName @product.Order.FirstName</p>
+                                        </div>
+                                    </div>
+                                    <hr>
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Adresa</p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p class="text-muted mb-0">@product.Order.Address </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Oras</p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p class="text-muted mb-0">@product.Order.City </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Telefon</p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p class="text-muted mb-0">@product.Order.PhoneNumber </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Produs</p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p class="text-muted mb-0">@product.Nume_Produs </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Cantitate</p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p class="text-muted mb-0">@product.Amount </p>
+                                        </div>
+                                    </div>
+                                    <hr>
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <p class="mb-0">Valoare</p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p class="text-muted mb-0">@product.Order.OrderTotal </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </tr>
+            </tbody>
+        }
+        </table>
+</div>
+

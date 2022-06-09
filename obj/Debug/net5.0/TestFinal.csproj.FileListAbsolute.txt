@@ -1,0 +1,1712 @@
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\appsettings.json
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.exe
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.deps.json
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.json
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.dev.json
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ref\TestFinal.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.pdb
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.Views.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.csprojAssemblyReference.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfoInputs.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfo.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.Manifest.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.xml
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\scopedcss\bundle\TestFinal.styles.css
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.input.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.output.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorCoreGenerate.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CopyComplete
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\ref\TestFinal.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.pdb
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.genruntimeconfig.cache
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Add.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Category\Add.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Edit.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\bin\Debug\net5.0\libman.json
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\nerog\source\repos\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\appsettings.json
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\libman.json
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.exe
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.deps.json
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.json
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.dev.json
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ref\TestFinal.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.pdb
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.Views.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.csprojAssemblyReference.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfoInputs.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfo.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.Manifest.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.xml
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\scopedcss\bundle\TestFinal.styles.css
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.input.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.output.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorCoreGenerate.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Add.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Create.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Delete.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Details.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Edit.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Index.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Add.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Edit.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Index.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Add.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Edit.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Index.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cache
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cs
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CopyComplete
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\ref\TestFinal.dll
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.pdb
+C:\Users\nerog\Desktop\TestFinal\TestFinal\obj\Debug\net5.0\TestFinal.genruntimeconfig.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\libman.json
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\appsettings.json
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\TestFinal.exe
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\TestFinal.deps.json
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.json
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.dev.json
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\TestFinal.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ref\TestFinal.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\TestFinal.pdb
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\TestFinal.Views.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csprojAssemblyReference.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfoInputs.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfo.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.Manifest.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.xml
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\scopedcss\bundle\TestFinal.styles.css
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.input.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.output.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorCoreGenerate.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Add.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Create.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Delete.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Details.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Edit.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Index.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Add.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Edit.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Index.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Add.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Edit.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Index.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CopyComplete
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\ref\TestFinal.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.pdb
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\TestFinal.genruntimeconfig.cache
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\List.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Edit.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.AWT.WinForms.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Beans.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Charsets.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Corba.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Core.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Localedata.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Management.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Media.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Misc.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Naming.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Remoting.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Security.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Text.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Tools.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Util.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.API.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.Runtime.JNI.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\bin\Debug\net5.0\IKVM.Runtime.dll
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Class\Add.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Class\Edit.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Class\Index.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Member\Add.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Member\Edit.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Member\Index.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Add.cshtml.g.cs
+C:\Users\Radu Emilian\Desktop\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\appsettings.Development.json
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\appsettings.json
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\libman.json
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.exe
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.deps.json
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.json
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.dev.json
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ref\TestFinal.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.pdb
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.Views.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.Views.pdb
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Grpc.Core.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Humanizer.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.AWT.WinForms.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Beans.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Charsets.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Cldrdata.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Corba.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Core.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Jdbc.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Localedata.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Management.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Media.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Misc.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Naming.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Nashorn.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Remoting.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Security.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.SwingAWT.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Text.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Tools.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Util.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.API.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Bind.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Crypto.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Parse.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Transform.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.WebServices.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.XPath.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.Runtime.JNI.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.Runtime.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csprojAssemblyReference.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfoInputs.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfo.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CoreCompileInputs.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.Manifest.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.xml
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\scopedcss\bundle\TestFinal.styles.css
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.input.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.output.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorCoreGenerate.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Class\Add.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Class\Edit.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Class\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Add.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Edit.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\List.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Create.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Delete.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Details.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Edit.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Member\Add.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Member\Edit.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Member\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Add.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Add.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Edit.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Add.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Edit.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Index.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cache
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cs
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.Views.pdb
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CopyComplete
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\ref\TestFinal.dll
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.pdb
+D:\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.genruntimeconfig.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\ref\TestFinal.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.pdb
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\appsettings.Development.json
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\appsettings.json
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\libman.json
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.exe
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.deps.json
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.json
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.dev.json
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ref\TestFinal.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.pdb
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.Views.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\TestFinal.Views.pdb
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Grpc.Core.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Humanizer.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.AWT.WinForms.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Beans.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Charsets.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Cldrdata.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Corba.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Core.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Jdbc.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Localedata.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Management.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Media.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Misc.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Naming.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Nashorn.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Remoting.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Security.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.SwingAWT.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Text.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Tools.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Util.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.API.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Bind.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Crypto.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Parse.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Transform.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.WebServices.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.XPath.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.Runtime.JNI.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\IKVM.Runtime.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.Razor.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csproj.AssemblyReference.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfoInputs.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfo.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CoreCompileInputs.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.Manifest.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.xml
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\scopedcss\bundle\TestFinal.styles.css
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.input.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.output.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorCoreGenerate.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Add.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Index.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Add.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Edit.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Index.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Add.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Edit.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Index.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.Views.pdb
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CopyComplete
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\TestFinal.genruntimeconfig.cache
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\EntityFramework.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.CodeDom.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Account\EditProfile.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Create.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Delete.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Details.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Edit.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Index.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Gallery\Index.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Add.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Edit.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Index.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\ShowSearchForm.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\CreateContact.cshtml.g.cs
+D:\FACULTATE\FACULTATE\Anul 3-2021\PAW\Radu\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\ListContact.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\appsettings.json
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\libman.json
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.StaticWebAssets.xml
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.exe
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.deps.json
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.json
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.dev.json
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ref\TestFinal.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.pdb
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.Views.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.AWT.WinForms.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Beans.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Charsets.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Corba.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Core.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Jdbc.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Localedata.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Management.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Media.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Misc.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Naming.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Nashorn.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Remoting.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Security.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Text.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Tools.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Util.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.API.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.Runtime.JNI.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\IKVM.Runtime.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.csproj.AssemblyReference.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfoInputs.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfo.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\scopedcss\bundle\TestFinal.styles.css
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.Manifest.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.input.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.output.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.RazorCoreGenerate.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Account\EditProfile.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\CreateContact.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\ListContact.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Add.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Edit.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Create.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Delete.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Details.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Edit.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Add.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Add.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Edit.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\ShowSearchForm.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Add.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Edit.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\ref\TestFinal.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.pdb
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.genruntimeconfig.cache
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CopyComplete
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\J2N.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Lucene.Net.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Product\CreateProduct.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Product\EditProduct.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Product\ListCategory.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Product\ListProduct.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Product\ListProducts.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Subcategory\CreateSubcategory.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Subcategory\ListSubcategory.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Category\CreateCategory.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Category\EditCategory.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Category\ListCategory.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Images\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Order\List.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\obj\Debug\net5.0\Razor\Views\Order\ListOrder.cshtml.g.cs
+C:\Users\radue\Desktop\TestFinal (2)\TestFinal\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\appsettings.json
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\libman.json
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.StaticWebAssets.xml
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.exe
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.deps.json
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.json
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.runtimeconfig.dev.json
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ref\TestFinal.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.pdb
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.Views.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Humanizer.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.AWT.WinForms.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Beans.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Charsets.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Corba.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Core.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Jdbc.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Localedata.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Management.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Media.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Misc.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Naming.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Nashorn.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Remoting.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Security.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Text.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Tools.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.Util.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.API.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.Runtime.JNI.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\IKVM.Runtime.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\J2N.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Lucene.Net.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\radue\Desktop\123\TestFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.csproj.AssemblyReference.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfoInputs.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.AssemblyInfo.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.RazorAssemblyInfo.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\scopedcss\bundle\TestFinal.styles.css
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\staticwebassets\TestFinal.StaticWebAssets.Manifest.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.input.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.TagHelpers.output.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.RazorCoreGenerate.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Account\EditProfile.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Category\CreateCategory.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Category\EditCategory.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Category\ListCategory.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\CreateContact.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Contact\ListContact.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Gallery\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Add.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Edit.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\GroupClass\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Create.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Delete.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Details.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Edit.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\ImageModels\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Images\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Order\List.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Order\ListOrder.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Product\CreateProduct.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Product\EditProduct.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Product\ListCategory.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Product\ListProduct.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Product\ListProducts.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Add.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Review\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Subcategory\CreateSubcategory.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Subcategory\ListSubcategory.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Add.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Edit.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Subscription\ShowSearchForm.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Add.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Edit.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\Trainer\Index.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.RazorTargetAssemblyInfo.cs
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.Views.pdb
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.dll
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\ref\TestFinal.dll
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.pdb
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.genruntimeconfig.cache
+C:\Users\radue\Desktop\123\TestFinal\obj\Debug\net5.0\TestFinal.csproj.CopyComplete
